@@ -21,7 +21,7 @@ The main propouse of oSup is stay into **the security** and **the freedom** of t
 
 `El principal propósito de oSup es estar dentro de la seguridad y de la libertad del software.`
 
-`Nada de pagar para usar y nunca estar vulnerable✝`
+`Nada de pagar para usar✝ y nunca estar vulnerable`
 
 > ✝ El software nunca debe de pagarse antes de usarlo, en pocas palabras: Para empezar o mejor dicho, para descargarlo e instalarlo, el usuario nunca deberá pagar por usarlo. El desarrollador puede incluir compras dentro del softwae y / o donaciones y contribuciones
 
