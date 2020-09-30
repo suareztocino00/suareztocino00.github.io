@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/suareztocino00/suareztocino00.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# suareztocino00 - Personal Webpage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+I'm **José Manuel S**. A ***low level*** developer and ***online*** content creator. I love all that pushing. In same words. I love the buttons. The keyboard is made with keys, simply, buttons.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`Soy Jose Manuel S. Desarrollador de bajo nivel y creador de contenido en línea, Me encanta todo lo que se pulsa. En pocas palabras. Me encantan los botones. El teclado está compuesto por teclas, simplemente, botones.`
 
-```markdown
-Syntax highlighted code block
+## License
+My content is licensed under `osup-license`. Read more on the repository [here](https://suareztocino00.github.io/osup-license)
 
-# Header 1
-## Header 2
-### Header 3
+`Mi contenido está licenciado bajo la  licencia osup, Lee más en el repositorio` [aquí](https://suareztocino00.github.io/osup-license)
 
-- Bulleted
-- List
+## oSup (Online Supdate License)
+The main propouse of oSup is stay into **the security** and **the freedom** of the software.
 
-1. Numbered
-2. List
+**Nothing of pay for use✝ and never stay vulnerable**
 
-**Bold** and _Italic_ and `Code` text
+> ✝The software never can be pay before using, in same words: To start using a software or better say to download and install, the user never could pay for use. The developer(s) can include purchases into the software and / or donations and contribuitions. 
 
-[Link](url) and ![Image](src)
-```
+`El principal propósito de oSup es estar dentro de la seguridad y de la libertad del software.`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`Nada de pagar para usar y nunca estar vulnerable✝`
 
-### Jekyll Themes
+> ✝ El software nunca debe de pagarse antes de usarlo, en pocas palabras: Para empezar o mejor dicho, para descargarlo e instalarlo, el usuario nunca deberá pagar por usarlo. El desarrollador puede incluir compras dentro del softwae y / o donaciones y contribuciones
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suareztocino00/suareztocino00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact me
 
-### Support or Contact
+You can contact me to: st00.icloud.jm@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**I'm open to answer everything.**
+
+`Puedes contactarme en` st00.icloud.jm@gmail.com
+
+`Estoy abierto para responder cualquier cosa.`
