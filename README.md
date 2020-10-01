@@ -27,10 +27,10 @@ The main propouse of oSup is stay into **the security** and **the freedom** of t
 
 ## Contact me
 
-You can contact me to: st00.icloud.jm@gmail.com
+You can contact me to: suareztocino00.me@gmail.com
 
 **I'm open to answer everything.**
 
-`Puedes contactarme en` st00.icloud.jm@gmail.com
+`Puedes contactarme en` suareztocino00.me@gmail.com
 
 `Estoy abierto para responder cualquier cosa.`
